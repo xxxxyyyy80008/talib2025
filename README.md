@@ -1,8 +1,12 @@
 # Technical Analysis Library
 
+## Introduction
+
+This lib is refactored from [finta](https://github.com/peerchemist/finta/tree/master) by [peerchemist](https://github.com/peerchemist)
+
 ## Usage Examples
 
-### Traditional Usage
+### Simple Usage
 
 ```python
 from talib import TA
